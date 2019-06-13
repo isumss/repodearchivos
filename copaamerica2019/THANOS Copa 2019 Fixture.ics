@@ -8,261 +8,261 @@ METHOD:PUBLISH
 
 BEGIN:VEVENT
 SUMMARY:[A] Brazil vs Bolivia
-DESCRIPTION:Fase de Grupos A\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos A\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio do Morumbi, São Paulo
 DTSTART:20190615T003000Z
 DTEND:20190615T023000Z
-UID:RUNSistemas_partido1
+UID:THANOS_partido1
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[A] Venezuela vs Peru
-DESCRIPTION:Fase de Grupos A\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos A\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Arena do Grêmio, Porto Alegre
 DTSTART:20190615T190000Z
 DTEND:20190615T210000Z
-UID:RUNSistemas_partido2
+UID:THANOS_partido2
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[B] Argentina vs Colombia
-DESCRIPTION:Fase de Grupos B\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos B\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Itaipava Arena Fonte Nova, Salvador
 DTSTART:20190615T220000Z
 DTEND:20190616T000000Z
-UID:RUNSistemas_partido3
+UID:THANOS_partido3
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[B] Paraguay vs Qatar
-DESCRIPTION:Fase de Grupos B\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos B\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio do Maracanã, Rio de Janeiro
 DTSTART:20190616T190000Z
 DTEND:20190616T210000Z
-UID:RUNSistemas_partido4
+UID:THANOS_partido4
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[C] Uruguay vs Ecuador
-DESCRIPTION:Fase de Grupos C\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos C\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio Mineirão, Belo Horizonte
 DTSTART:20190616T220000Z
 DTEND:20190617T000000Z
-UID:RUNSistemas_partido5
+UID:THANOS_partido5
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[C] Japon vs Chile
-DESCRIPTION:Fase de Grupos C\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos C\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio do Morumbi, São Paulo
 DTSTART:20190617T230000Z
 DTEND:20190618T010000Z
-UID:RUNSistemas_partido6
+UID:THANOS_partido6
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[A] Brazil vs Venezuela
-DESCRIPTION:Fase de Grupos A\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos A\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Itaipava Arena Fonte Nova, Salvador
 DTSTART:20190619T003000Z
 DTEND:20190619T023000Z
-UID:RUNSistemas_partido7
+UID:THANOS_partido7
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[A] Bolivia vs Peru
-DESCRIPTION:Fase de Grupos A\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos A\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio do Maracanã, Rio de Janeiro
 DTSTART:20190618T213000Z
 DTEND:20190618T233000Z
-UID:RUNSistemas_partido8
+UID:THANOS_partido8
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[B] Argentina vs Paraguay
-DESCRIPTION:Fase de Grupos B\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos B\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio Mineirão, Belo Horizonte
 DTSTART:20190620T003000Z
 DTEND:20190620T023000Z
-UID:RUNSistemas_partido9
+UID:THANOS_partido9
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[B] Colombia vs Qatar
-DESCRIPTION:Fase de Grupos B\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos B\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio do Morumbi, São Paulo
 DTSTART:20190619T213000Z
 DTEND:20190619T233000Z
-UID:RUNSistemas_partido10
+UID:THANOS_partido10
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[C] Uruguay vs Japon
-DESCRIPTION:Fase de Grupos C\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos C\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Arena do Grêmio, Porto Alegre
 DTSTART:20190620T230000Z
 DTEND:20190621T010000Z
-UID:RUNSistemas_partido11
+UID:THANOS_partido11
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[B] Ecuador vs Chile
-DESCRIPTION:Fase de Grupos B\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos B\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Itaipava Arena Fonte Nova, Salvador
 DTSTART:20190621T230000Z
 DTEND:20190622T010000Z
-UID:RUNSistemas_partido12
+UID:THANOS_partido12
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[A] Peru vs Brazil
-DESCRIPTION:Fase de Grupos A\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos A\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Arena Corinthians, São Paulo
 DTSTART:20190622T190000Z
 DTEND:20190622T210000Z
-UID:RUNSistemas_partido13
+UID:THANOS_partido13
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[A] Bolivia vs Venezuela
-DESCRIPTION:Fase de Grupos A\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos A\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio Mineirão, Belo Horizonte
 DTSTART:20190622T190000Z
 DTEND:20190622T210000Z
-UID:RUNSistemas_partido14
+UID:THANOS_partido14
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[B] Qatar vs Argentina
-DESCRIPTION:Fase de Grupos B\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos B\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Arena do Grêmio, Porto Alegre
 DTSTART:20190623T190000Z
 DTEND:20190623T210000Z
-UID:RUNSistemas_partido15
+UID:THANOS_partido15
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[B] Colombia vs Paraguay
-DESCRIPTION:Fase de Grupos B\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos B\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Itaipava Arena Fonte Nova, Salvador
 DTSTART:20190623T190000Z
 DTEND:20190623T210000Z
-UID:RUNSistemas_partido16
+UID:THANOS_partido16
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[C] Chile vs Uruguay
-DESCRIPTION:Fase de Grupos C\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos C\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio do Maracanã, Rio de Janeiro
 DTSTART:20190624T230000Z
 DTEND:20190625T010000Z
-UID:RUNSistemas_partido17
+UID:THANOS_partido17
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[C] Ecuador vs Japon
-DESCRIPTION:Fase de Grupos C\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Fase de Grupos C\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio Mineirão, Belo Horizonte
 DTSTART:20190624T230000Z
 DTEND:20190625T010000Z
-UID:RUNSistemas_partido18
+UID:THANOS_partido18
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[QF1] A1 vs B3/C3
-DESCRIPTION:Cuartos de Final\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Cuartos de Final\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Arena do Grêmio, Porto Alegre
 DTSTART:20190628T003000Z
 DTEND:20190628T023000Z
-UID:RUNSistemas_partido19
+UID:THANOS_partido19
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[QF2] A2 vs B2
-DESCRIPTION:Cuartos de Final\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Cuartos de Final\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio do Maracanã, Rio de Janeiro
 DTSTART:20190628T190000Z
 DTEND:20190628T210000Z
-UID:RUNSistemas_partido20
+UID:THANOS_partido20
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[QF3] B1 vs C2
-DESCRIPTION:Cuartos de Final\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Cuartos de Final\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Arena Corinthians, São Paulo
 DTSTART:20190628T230000Z
 DTEND:20190629T010000Z
-UID:RUNSistemas_partido21
+UID:THANOS_partido21
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[QF4] C1 vs A3/B3
-DESCRIPTION:Cuartos de Final\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Cuartos de Final\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Itaipava Arena Fonte Nova, Salvador
 DTSTART:20190629T190000Z
 DTEND:20190629T210000Z
-UID:RUNSistemas_partido22
+UID:THANOS_partido22
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[SF1] WQF1 vs WQF2
-DESCRIPTION:Semi Final\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Semi Final\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio Mineirão, Belo Horizonte
 DTSTART:20190703T003000Z
 DTEND:20190703T023000Z
-UID:RUNSistemas_partido23
+UID:THANOS_partido23
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[SF2] WQF3 vs WQF4
-DESCRIPTION:Semi Final\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Semi Final\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Arena do Grêmio, Porto Alegre
 DTSTART:20190704T003000Z
 DTEND:20190704T023000Z
-UID:RUNSistemas_partido24
+UID:THANOS_partido24
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[LF] LSF1 vs LSF2
-DESCRIPTION:Partido por el Tercer Puesto\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Partido por el Tercer Puesto\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Arena Corinthians, São Paulo
 DTSTART:20190706T190000Z
 DTEND:20190706T210000Z
-UID:RUNSistemas_partido25
+UID:THANOS_partido25
 TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:[F] WSF1 vs WSF2
-DESCRIPTION:Final\n\nhttp://www.facebook.com/RUNSistemas
+DESCRIPTION:Final\n\nhttps://www.facebook.com/360217487964823
 LOCATION:Estádio do Maracanã, Rio de Janeiro
 DTSTART:20190707T200000Z
 DTEND:20190707T220000Z
-UID:RUNSistemas_partido26
+UID:THANOS_partido26
 TRANSP:OPAQUE
 END:VEVENT
 
